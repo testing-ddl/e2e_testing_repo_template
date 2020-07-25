@@ -1,5 +1,4 @@
 '''
-Adding a change to commit
 #Example script to generate text from Nietzsche's writings.
 
 At least 20 epochs are required before the generated text
