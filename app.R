@@ -5,12 +5,6 @@ server <- function(input, output) {
   output$distPlot <- renderPlot({
     hist(rnorm(input$obs), col = 'darkgray', border = 'white')
   })
-  
-  output$output_text <- renderText({
-    paste(system2("find", "/domino/datasets", stdout=TRUE, stderr=TRUE), collapse=", ")
-  })
-  
-}
 
 ui <- fluidPage(sidebarLayout(sidebarPanel(
   sliderInput(
