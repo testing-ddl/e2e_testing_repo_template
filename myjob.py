@@ -7,7 +7,7 @@ from random import random, seed
 import json
 
 TITLE = "My baseline Batch Job"
-SLEEP = 3
+SLEEP = 180
 NUM_METRICS = 3
 SEED = datetime.now()
 
