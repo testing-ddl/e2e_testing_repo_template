@@ -15,6 +15,7 @@ f_results = open("results.txt", "wt")
 
 f_results.write(TITLE+"\n")
 f_results.write("Start Time: " + str(datetime.now()) + "\n")
+print("Start Time: " + str(datetime.now()))
 
 if (len(sys.argv) > 1):
     sleep_time = int(sys.argv[1])
@@ -24,6 +25,7 @@ else:
 time.sleep(sleep_time)
 
 f_results.write("Stop Time: " + str(datetime.now()) + "\n")
+print("Stop Time: " + str(datetime.now()))
 
 f_metrics = open("dominostats.json", "wt")
 
@@ -42,3 +44,5 @@ for item in d_metrics.items():
     f_email.write("<ul>\n")
     f_email.write("<li>" + str(item[0]) + ": " + str(item[1]) + "</li>\n")
     f_email.write("</ul>")
+
+print("Completed at: " + str(datetime.now()))
