@@ -1,1 +1,1 @@
-echo 'This is a test' > /mnt/data/datasetA-out/dataset_out.txt
+echo 'This is a test' > /mnt/data/A-out/dataset_out.txt
