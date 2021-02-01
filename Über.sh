@@ -1,1 +1,1 @@
-echo "Über Kuriosität 以上"
+echo "Über Kuriosität 以上 йогурт ёлочка"
