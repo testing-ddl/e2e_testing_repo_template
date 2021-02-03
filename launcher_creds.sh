@@ -1,0 +1,8 @@
+#!/bin/bash
+DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"`
+echo $DATE_WITH_TIME
+pwd
+echo $DATE_WITH_TIME >> launcher.txt
+git add .
+git commit -m "test launcher user"
+git push
