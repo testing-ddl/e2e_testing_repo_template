@@ -1,4 +1,5 @@
 #!/bin/bash
+ssh-keyscan github.com  >> ~/.ssh/known_hosts
 DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"`
 echo $DATE_WITH_TIME
 pwd
