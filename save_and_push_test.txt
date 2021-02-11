@@ -1,1 +1,1 @@
-Hello Lorean
+Hello {{random.first_name}}
