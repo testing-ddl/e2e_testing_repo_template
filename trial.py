@@ -1,7 +1,7 @@
 try:
     from pip._internal.utils.typing import MYPY_CHECK_RUNNING
 except ModuleNotFoundError:
-    MPYP_CHECK_RUNNING = False
+    MYPY_CHECK_RUNNING = False
 
 if MYPY_CHECK_RUNNING:
     from typing import List, Optional
