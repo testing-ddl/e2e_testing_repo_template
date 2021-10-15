@@ -1,1 +1,1 @@
-friday
+some bummer
