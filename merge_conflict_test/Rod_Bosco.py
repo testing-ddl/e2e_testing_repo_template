@@ -1,1 +1,1 @@
-friday night
+friday
