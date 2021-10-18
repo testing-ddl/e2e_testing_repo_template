@@ -1,1 +1,3 @@
->>>>>>> cd81c58 
+import anakonda
+line 2 no conflict
+hello world
