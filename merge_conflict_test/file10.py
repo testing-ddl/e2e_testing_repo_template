@@ -1,1 +1,1 @@
-preparing for hard reset
+will be doing force my changes
