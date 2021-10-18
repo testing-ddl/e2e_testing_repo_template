@@ -1,1 +1,1 @@
-will be doing force my changes
+sync to git resolve manually use my changes
