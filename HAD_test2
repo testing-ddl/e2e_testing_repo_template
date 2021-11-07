@@ -1,4 +1,8 @@
 github cloud
 Second file
+<<<<<<< Upstream, based on branch 'testing_branch' of https://github.com/testing-ddl/testing_repo.git
 remote change 2
 
+=======
+local change
+>>>>>>> bbe01e6 
