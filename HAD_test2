@@ -1,2 +1,7 @@
 github cloud
+<<<<<<< Upstream, based on origin/testing_branch
 remote change
+=======
+local change
+conflict test
+>>>>>>> ba6dc8a 
