@@ -1,2 +1,7 @@
 my test
+<<<<<<< Upstream, based on origin/dfs-imported-repo-merge-conflict-force-my-changes
 remote change
+=======
+local change
+>>>>>>> 3d49118 
+mark as resolved
