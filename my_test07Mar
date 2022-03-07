@@ -1,4 +1,4 @@
 my test
-remote change
+local change
 pull test
-this should be overwritten
+use these changes
