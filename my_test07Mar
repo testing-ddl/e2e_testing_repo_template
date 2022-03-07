@@ -1,8 +1,4 @@
 my test
-<<<<<<< Upstream, based on branch 'dfs-imported-repo-merge-conflict-force-my-changes' of https://github.com/testing-ddl/testing_repo.git
 remote change
-=======
-local change
->>>>>>> b2bbc34 
 pull test
-mark as resolved
+this should be overwritten
