@@ -1,2 +1,2 @@
 merge conflict file 3
-local change
+change again
