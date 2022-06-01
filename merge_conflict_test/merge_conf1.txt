@@ -1,4 +1,3 @@
 merge conf 1
 resolve manually
-remote change
-mark as resolved
+just mark resolved
