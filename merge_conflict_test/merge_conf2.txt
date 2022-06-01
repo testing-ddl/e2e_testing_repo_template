@@ -1,2 +1,2 @@
 merge conflict file 2
-overwrite these changes again
+hard reset - pull
