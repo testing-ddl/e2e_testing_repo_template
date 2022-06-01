@@ -1,3 +1,4 @@
 merge conf 1
 resolve manually
-use origin repo changes
+remote change
+mark as resolved
