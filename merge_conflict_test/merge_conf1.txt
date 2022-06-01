@@ -1,2 +1,3 @@
 merge conf 1
-remote change
+resolve manually
+use my changes
