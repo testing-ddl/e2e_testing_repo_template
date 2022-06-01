@@ -2,4 +2,3 @@ merge conf 1
 resolve manually
 pull test
 use origin repo changes
-these changes
