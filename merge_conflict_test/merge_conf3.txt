@@ -1,3 +1,2 @@
 merge conflict file 3
-remote change
-overwrite with other changes
+pull - use my changes
