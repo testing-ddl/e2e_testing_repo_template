@@ -1,3 +1,4 @@
 merge conf 1
 resolve manually
-just mark resolved
+pull test
+user origin repo changes
