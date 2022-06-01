@@ -1,3 +1,3 @@
 merge conf 1
 resolve manually
-this is a pull test
+marked as resolved!
