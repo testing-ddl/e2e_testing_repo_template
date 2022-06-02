@@ -1,2 +1,0 @@
-merge conflict file 3
-pull - use my changes

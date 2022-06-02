@@ -1,2 +1,0 @@
-merge conflict file 2
-hard reset - pull
