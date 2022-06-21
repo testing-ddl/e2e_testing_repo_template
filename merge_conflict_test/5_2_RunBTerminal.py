@@ -1,4 +1,3 @@
-new conflict
-june 21 test
-another change
-remote change
+Test 276674 retest
+subsequent conflicts
+mark as resolved
