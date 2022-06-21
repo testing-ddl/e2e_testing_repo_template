@@ -46,9 +46,3 @@ for item in d_metrics.items():
     f_email.write("</ul>")
 
 print("Completed at: " + str(datetime.now()))
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
