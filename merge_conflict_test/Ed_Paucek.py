@@ -1,1 +1,1 @@
-hello world
+hello conflict {{random.phone_2number}}
