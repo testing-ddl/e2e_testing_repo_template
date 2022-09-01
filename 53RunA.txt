@@ -1,3 +1,2 @@
 initial file
-local change
-force changes
+remote change
