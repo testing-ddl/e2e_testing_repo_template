@@ -1,2 +1,3 @@
-local change
-restart workspace
+remote change
+pull test
+overwrite this
