@@ -1,6 +1,3 @@
 initial file
-<<<<<<< Upstream, based on origin/dfs-imported-repo-merge-conflict-force-my-changes
-remote change
-=======
-remote change
->>>>>>> 4f09c5f 
+pull test
+hard reset
