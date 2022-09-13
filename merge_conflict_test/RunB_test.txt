@@ -1,4 +1,3 @@
 remote change
-pull test
 hard reset
 github private
