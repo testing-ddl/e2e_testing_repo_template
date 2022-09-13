@@ -1,2 +1,3 @@
-local change
+remote change
 github private
+hard reset
