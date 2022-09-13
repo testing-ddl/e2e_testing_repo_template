@@ -1,8 +1,3 @@
 github private
-<<<<<<< Upstream, based on branch 'main' of https://github.com/testing-ddl/testing_repo.git
-pull test
 remote change
-=======
-local change
-pull test
->>>>>>> 300ab65 
+overwrite this
