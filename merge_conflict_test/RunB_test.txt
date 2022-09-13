@@ -1,4 +1,3 @@
 remote change
 github private
-hard reset
-pull test
+last test?
