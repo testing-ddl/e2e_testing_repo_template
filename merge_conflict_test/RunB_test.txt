@@ -1,4 +1,4 @@
-local
+remote change
 hard reset
 github private
 use this content
