@@ -1,6 +1,6 @@
 project: domino_feast
 registry: data/registry.db
-provider: local
+provider: gcp
 offline_store:
-    type: file
+    type: bigquery
 entity_key_serialization_version: 2
